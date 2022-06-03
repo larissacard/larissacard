@@ -1,10 +1,9 @@
-### Olá, me chamo Pedro Miguel 👋 (esse git é novo, ainda estou migrando projetos para ele)
+### Olá, me chamo Larissa 👋 (esse git é novo, ainda estou migrando projetos para ele)
 
-- 🛸 Curso Ciências da Computação - UFCA
 - 🔭 No momento estou trabalhando como Full stack.
 - 🌱 Estudando FrontEnd (html, css, js).
-- 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
-- 😄 Pronomes: ele/dele
+- 📫 Contate-me no email: larissak.cardosom@gmail.com
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/larissacard">
